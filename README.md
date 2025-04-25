@@ -2,7 +2,7 @@
 ## Introdução
 Primeiro projeto no **GITHUB** da Udesc. 
 Dica do dia:
->"É fazendo muita que se aduba a vida."
+>"É fazendo muita merda que se aduba a vida."
 ## Instalação 
 Para instalar o *software, faça o *download* do projeto siga os passos abaixo:
 1.Entre no diretorio
